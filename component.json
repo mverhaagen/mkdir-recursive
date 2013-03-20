@@ -1,7 +1,7 @@
 {
 	"name": "mkdir_recursive",
 	"version": "0.0.1",
-	"main": "./script/mkdir_recursive.js",
+	"main": "./script/mkdir-recursive.js",
 	"dependencies": {
 	
 	}
