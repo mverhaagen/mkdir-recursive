@@ -10,7 +10,10 @@
 
 				fs.mkdir(path, mode, callback)
 			}
-			callback()
+			
+			if(callback){
+				callback()
+			}
 	}
 	
 	
