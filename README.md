@@ -1,6 +1,4 @@
 mkdir-recursive
 ===============
 
-mkdir Recursive
-
-This is a very simple routine to create recursive folders.
+A simple function to create nested folder structures.
