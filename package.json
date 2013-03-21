@@ -1,5 +1,9 @@
 {
 	"name": "mkdir-recursive",
 	"descriptioin": "A simple function for creating nested folder structures.",
-	"author": "Mike Verhaagen"
+	"author": "Mike Verhaagen",
+	"author": {
+    		"name": "MVerhaagen",
+    		"email": "mverhaagen@icgconsulting.com"
+  	}
 }
